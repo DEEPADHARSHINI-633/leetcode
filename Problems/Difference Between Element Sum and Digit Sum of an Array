@@ -1,0 +1,21 @@
+int differenceOfSum(int* nums, int numsSize){
+    int element_sum=0,digit_sum=0,digit;
+    for(int i=0;i<numsSize;i+=1)
+    {
+        element_sum+=nums[i];
+    }
+    for(int i=0;i<numsSize;i+=1)
+    {
+        int number=nums[i];
+        while(number)
+        {
+            digit=number%10;
+            digit_sum+=digit;
+            number/=10;
+        }
+    }
+    if(element_sum>digit_sum)
+    return element_sum-digit_sum;
+    else
+    return digit_sum-element_sum;
+}
