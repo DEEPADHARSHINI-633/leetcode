@@ -1,0 +1,27 @@
+int trap(int* height, int heightSize){
+    int i,left_max,right_max;
+    int left_max_arr[heightSize],right_max_arr[heightSize];
+    int water_trap=0;
+    left_max=height[0];
+    left_max_arr[0]=left_max;
+    for(i=1;i<heightSize;i+=1)
+    {
+        if(height[i]>left_max)
+        left_max=height[i];
+        left_max_arr[i]=left_max;
+    }
+
+    right_max=height[heightSize-1];
+    right_max_arr[heightSize-1]=right_max;
+    for(i=heightSize-2;i>=0;i-=1)
+    {
+        if(height[i]>right_max)
+        right_max=height[i];
+        right_max_arr[i]=right_max;
+    }
+    for(i=0;i<heightSize;i+=1)
+    {
+        water_trap+=(left_max_arr[i]< right_max_arr[i]?left_max_arr[i]:right_max_arr[i])-height[i];
+    }
+    return water_trap;
+}
