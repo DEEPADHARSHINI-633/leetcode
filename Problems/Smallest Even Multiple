@@ -1,0 +1,15 @@
+int smallestEvenMultiple(int n){
+    if(n%2==0)
+    return n;
+    else{
+        int ans;
+        for(int i=2;i<150;i+=1)
+        {
+            if((n*i)%2==0)
+            {    
+                ans= n*i;
+                break;
+            }
+        }return ans;
+    }
+}
