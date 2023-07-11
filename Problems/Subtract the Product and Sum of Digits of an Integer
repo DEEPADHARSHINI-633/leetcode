@@ -1,0 +1,12 @@
+int subtractProductAndSum(int n){
+    int digit;
+    int prod=1;
+    int sum=0;
+    while(n){
+        digit=n%10;
+        sum+=digit;
+        prod*=digit;
+        n=n/10;
+    }
+    return prod-sum;
+}
