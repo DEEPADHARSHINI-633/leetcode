@@ -1,0 +1,13 @@
+bool isPalindrome(int x){
+    int num=x,digit;
+    long long res=0;
+        if(num<0 || (num!=0 && num%10==0))
+        return false;
+        while(num)
+        {
+            digit=num%10;
+            res=res*10+digit;
+            num/=10;
+        }
+        return (res==x);
+}
