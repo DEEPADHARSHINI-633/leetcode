@@ -3,6 +3,7 @@
 |----|-------|--------|
 |1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Two%20Sum)|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Palindrome%20Number)|
+|27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Remove%20Element)|
 |42.|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Trapping%20Rain%20Water)|
 |1281.|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Running%20Sum%20of%201d%20Array)|
