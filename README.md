@@ -6,7 +6,9 @@
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Remove%20Element)|
 |42.|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Trapping%20Rain%20Water)|
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Length%20of%20Last%20Word)|
+|66.|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Plus%20One)|
 |1281.|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
+|206.|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Reverse%20Linked%20List)|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Running%20Sum%20of%201d%20Array)|
 |1512.|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Number%20of%20Good%20Pairs)|
 |2011.|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Final%20Value%20of%20Variable%20After%20Performing%20Operations)|
