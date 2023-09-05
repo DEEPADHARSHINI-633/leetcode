@@ -2,6 +2,7 @@
 |S.No|Problem|Solution|
 |----|-------|--------|
 |1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Two%20Sum)|
+|7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Reverse%20Integer)|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Palindrome%20Number)|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Remove%20Element)|
 |42.|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Trapping%20Rain%20Water)|
@@ -9,9 +10,12 @@
 |61.|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Rotate%20List)|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Plus%20One)|
 |206.|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Reverse%20Linked%20List)|
+|876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Middle%20of%20the%20Linked%20List)|
+|1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Defanging%20an%20IP%20Address)|
 |1281.|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Running%20Sum%20of%201d%20Array)|
 |1512.|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Number%20of%20Good%20Pairs)|
+|1678.|[](https://leetcode.com/problems/goal-parser-interpretation/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Goal%20Parser%20Interpretation)|
 |2011.|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[C++](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Final%20Value%20of%20Variable%20After%20Performing%20Operations)|
 |2235.|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Add%20Two%20Integers)|
 |2413.|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[C](https://github.com/DEEPADHARSHINI-633/leetcode/blob/main/Problems/Smallest%20Even%20Multiple)|
